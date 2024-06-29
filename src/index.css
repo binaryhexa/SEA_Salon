@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-neutral30 backdrop-blur-lg text-white;
+}
+
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary50 to-primary30;
+}
+
+.bg-gradient-card {
+  @apply bg-gradient-to-b from-primary10/25 to-primary40/15;
+}
+
+.mui-input .MuiOutlinedInput-notchedOutline {
+  @apply rounded-full
+}
