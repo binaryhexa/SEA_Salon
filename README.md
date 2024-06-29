@@ -1,3 +1,6 @@
+## Website Preview
+[https://binaryhexa.github.io/SEA_Salon/](https://binaryhexa.github.io/SEA_Salon/)
+
 # How to Set Up the Application?
 You have to clone the Repository first. Here's the step of what you can do:
 
