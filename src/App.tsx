@@ -9,7 +9,7 @@ function App() {
       <HeaderNavigation />
       <Routes>
         {/* Home Start Section */}
-        <Route path="/" element={<Home />} />
+        <Route path="/SEA_Salon" element={<Home />} />
         {/* Home End Section */}
       </Routes>
       <Footer />
